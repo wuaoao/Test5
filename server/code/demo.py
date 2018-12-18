@@ -102,7 +102,7 @@ class CDemo(dbctrl.saveobject.CSaveData):
         print ("GetRanklist")
         print (dData)
 
-        sSql1 = "SELECT * FROM db_demo.ranklist order by hp*2000+score*4000+finaltime desc LIMIT 5"
+        sSql1 = "SELECT * FROM db_demo.ranklist order by hp*2000+score*4000-finaltime desc LIMIT 5"
 
         rs = pubglobalmanager.CallManagerFunc("dbctrl", "Query", sSql1)
 
