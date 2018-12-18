@@ -1,0 +1,531 @@
+[2018-12-11 21:41:40] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-11 21:42:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-11 21:48:37] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-11 21:50:12] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:12:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:15:38] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:31:18] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:31:29] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:31:38] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:32:27] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:33:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:36:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:40:15] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:43:23] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:53:33] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:54:31] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 10:56:38] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 11:04:02] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 11:45:20] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 11:55:26] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 11:56:55] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 12:32:22] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 12:47:57] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 12:54:26] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-12-12 16:19:45] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("127.0.0.1", 3306))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10013] 
+---------extra---------
+
+[2018-12-12 16:19:59] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("127.0.0.1", 3306))
+  File "D:\software\python\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10013] 
+---------extra---------
+
+[2018-12-13 10:02:57] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 64, in Recv
+    dPackData = json.loads(sPack, encoding="gbk")
+  File "D:\software\python\lib\json\__init__.py", line 352, in loads
+    return cls(encoding=encoding, **kw).decode(s)
+  File "D:\software\python\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\software\python\lib\json\decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 1 column 34 (char 33)
+---------extra---------
+recvfail2
+[2018-12-13 10:04:43] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 64, in Recv
+    dPackData = json.loads(sPack, encoding="gbk")
+  File "D:\software\python\lib\json\__init__.py", line 352, in loads
+    return cls(encoding=encoding, **kw).decode(s)
+  File "D:\software\python\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\software\python\lib\json\decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 1 column 34 (char 33)
+---------extra---------
+recvfail2
+[2018-12-13 17:05:06] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 60, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 40, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-13 17:05:54] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 61, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 41, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-13 17:11:03] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 62, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 42, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-13 17:12:39] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 63, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 42, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-13 17:14:54] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 64, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 42, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-13 17:15:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 64, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 42, in CalPos
+    iDicstacne = int(math.sqrt(pow(lPos1[0]-lPos2[0],2) + pow(lPos1[1]-lPos2[1],2)))
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+---------extra---------
+recvfail2
+[2018-12-16 18:05:34] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 35, in OnCommand
+  File "D:\code\server\code\demo.py", line 122, in OnGetRanklist
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 37, in CalPos
+    r1 = dData["radius1"]
+KeyError: 'radius1'
+---------extra---------
+recvfail2
+[2018-12-16 18:09:10] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 168, in OnGetRanklist
+    pubglobalmanager.CallManagerFunc("demo", "GetRanklist", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 140, in GetRanklist
+    "rank3" : ans[2],
+IndexError: list index out of range
+---------extra---------
+recvfail2
+[2018-12-16 18:09:34] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 168, in OnGetRanklist
+    pubglobalmanager.CallManagerFunc("demo", "GetRanklist", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 140, in GetRanklist
+    "rank3" : ans[2],
+IndexError: list index out of range
+---------extra---------
+recvfail2
+[2018-12-16 22:47:12] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 161, in OnLogin
+    pubglobalmanager.CallManagerFunc("demo", "Login", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 62, in Login
+    is_exist = pubglobalmanager.CallManagerFunc("dbctrl", "Query", sSql1)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\dbctrl\manager.py", line 84, in Query
+    cursor.execute(sSql)
+  File "D:\software\python\lib\site-packages\MySQLdb\cursors.py", line 174, in execute
+    self.errorhandler(self, exc, value)
+  File "D:\software\python\lib\site-packages\MySQLdb\connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+---------extra---------
+recvfail2
+[2018-12-17 12:07:45] ---------TraceErr---------
+Traceback (most recent call last):
+  File "D:\code\server\code\clientsocket\clientobject.py", line 38, in run
+    self.Recv(sData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 66, in Recv
+    self.OnCommand(dPackData)
+  File "D:\code\server\code\clientsocket\clientobject.py", line 117, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "D:\code\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "D:\code\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "D:\code\server\code\commandctrl\manager.py", line 34, in OnCommand
+    oFunc(oClient, dData)
+  File "D:\code\server\code\demo.py", line 161, in OnLogin
+    pubglobalmanager.CallManagerFunc("demo", "Login", oClient, dData)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\demo.py", line 62, in Login
+    is_exist = pubglobalmanager.CallManagerFunc("dbctrl", "Query", sSql1)
+  File "D:\code\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "D:\code\server\code\dbctrl\manager.py", line 84, in Query
+    cursor.execute(sSql)
+  File "D:\software\python\lib\site-packages\MySQLdb\cursors.py", line 174, in execute
+    self.errorhandler(self, exc, value)
+  File "D:\software\python\lib\site-packages\MySQLdb\connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'qw' in 'where clause'")
+---------extra---------
+recvfail2

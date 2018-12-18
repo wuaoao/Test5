@@ -1,0 +1,71 @@
+[2018-12-11 21:48:37] Unknown database 'db_demo'
+[2018-12-11 21:48:37] 创建数据库db_demo
+[2018-12-11 21:48:37] 创建数据表tbl_global
+[2018-12-12 10:31:18] Unknown database 'db_demo'
+[2018-12-12 10:31:18] 创建数据库db_demo
+[2018-12-12 10:31:18] 创建数据表tbl_global
+[2018-12-12 10:31:19] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:31:29] 创建数据表tbl_global
+[2018-12-12 10:31:29] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:31:38] 创建数据表tbl_global
+[2018-12-12 10:31:38] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:32:27] 创建数据表tbl_global
+[2018-12-12 10:32:27] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:33:19] 创建数据表tbl_global
+[2018-12-12 10:33:19] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:36:19] 创建数据表tbl_global
+[2018-12-12 10:36:19] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:40:15] 创建数据表tbl_global
+[2018-12-12 10:40:15] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:43:23] 创建数据表tbl_global
+[2018-12-12 10:43:23] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:53:33] 创建数据表tbl_global
+[2018-12-12 10:53:33] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:54:31] 创建数据表tbl_global
+[2018-12-12 10:54:32] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:56:38] 创建数据表tbl_global
+[2018-12-12 10:56:38] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 11:04:02] 创建数据表tbl_global
+[2018-12-12 11:04:02] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 11:56:55] Unknown database 'db_demo'
+[2018-12-12 11:56:55] 创建数据库db_demo
+[2018-12-12 11:56:55] 创建数据表tbl_global
+[2018-12-16 10:52:41] Unknown database 'db_demo'
+[2018-12-16 10:52:41] 创建数据库db_demo
+[2018-12-16 10:52:41] 创建数据表ranklist
+[2018-12-16 10:52:42] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 10:52:42] 创建数据表tbl_global
+[2018-12-16 10:52:42] 创建数据表user_msg
+[2018-12-16 10:52:42] Key column 'username' doesn't exist in table
+[2018-12-16 10:59:43] 创建数据表ranklist
+[2018-12-16 10:59:43] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 10:59:43] 创建数据表user_msg
+[2018-12-16 10:59:43] Key column 'username' doesn't exist in table
+[2018-12-16 11:02:49] 创建数据表ranklist
+[2018-12-16 11:02:49] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:02:49] 创建数据表user_msg
+[2018-12-16 11:02:49] Key column 'username' doesn't exist in table
+[2018-12-16 11:04:03] 创建数据表ranklist
+[2018-12-16 11:04:03] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:04:03] 创建数据表user_msg
+[2018-12-16 11:04:03] Key column 'username' doesn't exist in table
+[2018-12-16 11:07:13] 创建数据表ranklist
+[2018-12-16 11:07:13] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:07:13] 创建数据表user_msg
+[2018-12-16 11:07:13] Key column 'username' doesn't exist in table
+[2018-12-16 11:08:25] 创建数据表ranklist
+[2018-12-16 11:08:25] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:08:25] 创建数据表user_msg
+[2018-12-16 11:08:25] Key column 'name' doesn't exist in table
+[2018-12-16 11:09:01] Unknown database 'db_demo'
+[2018-12-16 11:09:01] 创建数据库db_demo
+[2018-12-16 11:09:01] 创建数据表ranklist
+[2018-12-16 11:09:01] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:09:01] 创建数据表tbl_global
+[2018-12-16 11:09:01] 创建数据表user_msg
+[2018-12-16 11:09:01] Key column 'name' doesn't exist in table
+[2018-12-16 11:10:29] 创建数据表ranklist
+[2018-12-16 11:10:29] Can't create table 'db_demo.ranklist' (errno: 150)
+[2018-12-16 11:10:29] 创建数据表user_msg
+[2018-12-16 11:17:43] 创建数据表ranklist
+[2018-12-17 11:49:57] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1

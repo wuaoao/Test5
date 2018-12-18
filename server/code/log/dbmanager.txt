@@ -1,0 +1,4 @@
+[2018-12-12 10:37:05] 创建数据表tbl_global
+[2018-12-12 10:37:05] Table '`db_demo`.`tbl_global`' already exists
+[2018-12-12 10:37:28] 创建数据表tbl_global
+[2018-12-12 10:37:28] Table '`db_demo`.`tbl_global`' already exists
